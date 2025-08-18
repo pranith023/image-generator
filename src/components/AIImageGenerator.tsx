@@ -118,7 +118,7 @@ const AIImageGenerator: React.FC = () => {
             DREAM
           </h1>
           <h2 className="text-7xl md:text-8xl font-black text-black mb-8 tracking-tight leading-none">
-            PEXELS
+            PIXELS
           </h2>
           <div className="w-24 h-0.5 bg-black mx-auto mb-8"></div>
           <p className="text-lg text-gray-600 font-light max-w-2xl mx-auto leading-relaxed">
