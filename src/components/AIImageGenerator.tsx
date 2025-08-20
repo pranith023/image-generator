@@ -19,7 +19,7 @@ const AIImageGenerator: React.FC = () => {
 
     setLoading(true);
     
-    const apiKey = "infip-52e02e11";
+    const apiKey = "infip-1baae467";
     const url = "/api/v1/images/generations";
 
     const headers = {
